@@ -3,7 +3,7 @@
 Aplikacja Email-sender służy do wysyłania wiadomości drogą mailową oraz zarządzania listą kontaktów użytkownika.
 Dostępne opcje odnośnie wiadomości to:
   wysłanie wiadomości pod wskazany adres
-w ysłanie wiadomości do wszystkich użytkowników dostępnych w bazie danych
+wysłanie wiadomości do wszystkich użytkowników dostępnych w bazie danych
 Dostępne funkcje dla zarządzania kontaktami to podstawowe operacje CRUD:
   wyświetlenie wszystkich kontaktów
   wyświetlenie kontaktu dla danego id
