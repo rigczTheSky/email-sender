@@ -1,0 +1,13 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="email-sender" type="Application" factoryName="Application">
+    <envs>
+      <env name="EMAIL" value="tmarszelewski@gmail.com" />
+      <env name="PASSWORD" value="bmklvimtulejlljr" />
+    </envs>
+    <option name="MAIN_CLASS_NAME" value="com.tmarszelewski.emailsender.EmailSenderApplication" />
+    <module name="email-sender" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
